@@ -1,7 +1,7 @@
 # 🦟 Painel de Dengue no Brasil
 
 ![Python](https://img.shields.io/badge/python-3.13%2B-blue)
-![Testes](https://github.com/SEU-USUARIO/painel-dengue/actions/workflows/tests.yml/badge.svg)
+![Testes](https://github.com/victorfreireavfs/painel-dengue/actions/workflows/tests.yml/badge.svg)
 ![Licença](https://img.shields.io/badge/licença-MIT-green)
 
 Projeto didático de **análise de dados de saúde** com Python. Lê notificações mensais de dengue por estado (2022–2025), limpa os dados, calcula indicadores, gera gráficos e mostra tudo em uma janela com filtros.
